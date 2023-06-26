@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64a0809a.css",
+    "main.js": "./static/js/main.1edfe1bd.js",
+    "static/media/option-chain.png": "./static/media/option-chain.43db913b77061f12b6cb.png",
+    "static/media/strategy-builder.png": "./static/media/strategy-builder.69a225fb79c73ff134e2.png",
+    "static/media/built-in-strategies.png": "./static/media/built-in-strategies.47c4b814dcef173c2447.png",
+    "static/media/open-interest.png": "./static/media/open-interest.63abe8e8f741b21785f7.png",
+    "index.html": "./index.html",
+    "main.64a0809a.css.map": "./static/css/main.64a0809a.css.map",
+    "main.1edfe1bd.js.map": "./static/js/main.1edfe1bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a0809a.css",
+    "static/js/main.1edfe1bd.js"
+  ]
+}
